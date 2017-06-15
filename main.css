@@ -1,0 +1,37 @@
+body{
+  background-color: #F2F2F2;
+}
+.quo{background:white;
+  width: 600px;
+    min-height: 300px;
+    height: auto;
+    border-radius: 5px;
+    margin: 2% auto;
+    box-shadow: 0 9px 50px hsla(20, 67%, 75%, 0.31);
+    padding: 5.5%;
+}
+.butt{
+  background:#F2F2F2;
+  width:150px;
+  height:auto;
+  padding:10px;
+  color:black;
+
+}
+.butt:hover {
+    background:white;
+  color:black;
+  border-color:black;
+  border-width: .5px;
+ border-style: solid;
+  cursor:pointer;
+}
+.float{
+  float: left;
+}
+.fl{
+  float: right;
+}
+.prime{
+  font-family: 'sofia';
+}
